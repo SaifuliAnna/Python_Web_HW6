@@ -1,0 +1,6 @@
+postgres:
+  url: postgresql+psycopg2://nkwkllnq:6xPHuHmnnlKfIEKzzzhmTcEOLzRHCdRb@lucky.db.elephantsql.com/nkwkllnq
+auth:
+  secret_key: 890d9a6f880a5939b2b5ab293b4cd6ad389711de24f73c5601a87fe1539e7ab6
+  algorithm: HS256
+  expire_token: 30
